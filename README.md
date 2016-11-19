@@ -1,11 +1,9 @@
 # ue4_invintorys
 
-## SlotBasedInvSys
-A tutorial series by UnrealGaimeDev on youtube
-[link to UnrealGaimeDev playlist]
-up to part 2
-test
-
+## SlotBasedInvSys  
+A tutorial series by UnrealGaimeDev on youtube  
+[link to UnrealGaimeDev playlist]  
+up to part 2  
 
 
 
