@@ -3,7 +3,7 @@
 ## SlotBasedInvSys  
 A tutorial series by UnrealGaimeDev on youtube  
 [link to UnrealGaimeDev]  
-up to part 2  
+up to part 6  
 
 
 ##SimpleInvSys
